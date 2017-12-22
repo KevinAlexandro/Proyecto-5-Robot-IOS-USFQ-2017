@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		435C21051FC26DE100F0B3EC /* ParteRobot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 435C21041FC26DE100F0B3EC /* ParteRobot.swift */; };
 		437AF1141FC224E300B3E4C4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437AF1131FC224E300B3E4C4 /* AppDelegate.swift */; };
 		437AF1161FC224E300B3E4C4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437AF1151FC224E300B3E4C4 /* ViewController.swift */; };
 		437AF1191FC224E300B3E4C4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 437AF1171FC224E300B3E4C4 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		435C21041FC26DE100F0B3EC /* ParteRobot.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ParteRobot.swift; sourceTree = "<group>"; };
 		437AF1101FC224E300B3E4C4 /* Robot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Robot.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		437AF1131FC224E300B3E4C4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		437AF1151FC224E300B3E4C4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				437AF1131FC224E300B3E4C4 /* AppDelegate.swift */,
 				437AF1151FC224E300B3E4C4 /* ViewController.swift */,
 				437AF1171FC224E300B3E4C4 /* Main.storyboard */,
+				435C21041FC26DE100F0B3EC /* ParteRobot.swift */,
 				437AF11D1FC224E300B3E4C4 /* Assets.xcassets */,
 				437AF11F1FC224E300B3E4C4 /* LaunchScreen.storyboard */,
 				437AF1221FC224E300B3E4C4 /* Info.plist */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				437AF1161FC224E300B3E4C4 /* ViewController.swift in Sources */,
+				435C21051FC26DE100F0B3EC /* ParteRobot.swift in Sources */,
 				437AF1141FC224E300B3E4C4 /* AppDelegate.swift in Sources */,
 				437AF11C1FC224E300B3E4C4 /* Robot.xcdatamodeld in Sources */,
 			);
@@ -305,6 +309,7 @@
 				437AF1271FC224E300B3E4C4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
